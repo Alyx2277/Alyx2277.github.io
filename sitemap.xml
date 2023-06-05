@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://alyx2277.club/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alyx2277.club/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -38,34 +29,16 @@
   </url>
   
   <url>
+    <loc>https://alyx2277.club/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://alyx2277.club/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alyx2277.club/life/games/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alyx2277.club/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alyx2277.club/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -93,6 +66,33 @@
   
   <url>
     <loc>https://alyx2277.club/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alyx2277.club/life/games/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alyx2277.club/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alyx2277.club/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
